@@ -1,0 +1,244 @@
+AG strain,Berman Lab ID,Species,Strain Name:,Genotype (if known)
+1,2348,C. albicans,SC5314,"CaURA3/CaURA3
+"
+2,5326,C. albicans,SC5314,prototrophic Candida strain
+3,11577,C. albicans,SC5314,
+4,11830,C. albicans,SC5314,
+5,12416,C. albicans,SC5314-Fidel,
+6,12417,C. albicans,SC5314-Marsch,
+7,12413,C. albicans,SC5314-Schroppel,
+8,12833,C. albicans,12C,MTL a/a
+9,12839,C. albicans,19F,MTL alpha/alpha
+10,11607,C. albicans,73/025,
+11,11581,C. albicans,78/028,
+12,11592,C. albicans,81/064,
+13,11618,C. albicans,AM2002/0087,
+14,11583,C. albicans,AM2003-013,
+15,11598,C. albicans,AM2003-016,
+16,11588,C. albicans,AM2003/0069,
+17,11599,C. albicans,AM2003/0074,
+18,11609,C. albicans,AM2003/0089,
+19,11604,C. albicans,AM2003/0100,
+20,11610,C. albicans,AM2003/0165,
+21,11589,C. albicans,AM2003/0182,
+22,11615,C. albicans,AM2003/0191,
+23,11614,C. albicans,AM2003/020,
+24,11616,C. albicans,AM2004/0028,
+25,11576,C. albicans,AM2005/0377,
+26,10261,C. albicans,ATCC42720,this is the strain that was sequenced at the Broad Institute
+27,10260,C. albicans,ATCC6260,this is the strain that was sequenced at the Broad Institute
+28,11602,C. albicans,b30708/5,
+29,4162,C. albicans,Ca 81,Wild type
+30,3400,C. albicans,CA11,"SLA2/sla2-1::hisG::URA3::hisG
+Mat a/alpha"
+31,4031,C. albicans,CAI4  ,ura3::imm434/ura3::imm434
+32,8653,C. albicans,CAI4 F2,ura3::imm434/ura3::imm434
+33,8654,C. albicans,CAI4 F3,ura3::imm434/ura3::imm434
+34,10265,C. albicans,CD36,this strain of C. dubliniensis was sequenced at the Sanger Institute
+35,10267,C. albicans,CLIB298,this strain of C.glabrata was sequenced at the Broad Institute
+36,12138,C. albicans,DP_SC5314,
+37,9320,C. albicans,DSY294,
+38,9321,C. albicans,DSY296,
+39,9892,C. albicans,DSY3534,clinical isolate (T.White #1)
+40,9893,C. albicans,DSY3536,"clinical isolate (T.White #3)
+belongs to the group of 17 serial isolates"
+41,9894,C. albicans,DSY3548,"clinical isolate (T. White #16)
+belongs to series of 17 isolates"
+42,9895,C. albicans,DSY3549,"clinical isolate (T. White #17)
+belongs to series of 17 isolates"
+43,8828,C. albicans,E2 from Magee lab,MATa
+44,8829,C. albicans,E3,MATalpha
+45,11603,C. albicans,FC22,
+46,11611,C. albicans,FC28,
+47,11590,C. albicans,FJ9,
+48,12840,C. albicans,GC75,MTL alpha/alpha
+49,7906,C. albicans,HOU11-A3,"ura3Δ::λimm434/ura3Δimm434
+erg6::hisG/erg6::hisG-URA3-hisG
+
+or
+
+erg6::hisG/erg6::hisG"
+50,11606,C. albicans,HUN68,
+51,11593,C. albicans,HUN92,
+52,11586,C. albicans,HUN96,
+53,11597,C. albicans,IHEM16614,
+54,11613,C. albicans,IHEM16945,
+55,11612,C. albicans,IHEM16972,
+56,11582,C. albicans,IHEM3742,
+57,10266,C. albicans,J941367,this strain of C.parapsilosis was sequenced at the Broad Institute
+58,11600,C. albicans,J951361,
+59,11591,C. albicans,J981301,
+60,11579,C. albicans,J981315,
+61,11587,C. albicans,J981318,
+62,11578,C. albicans,J990102,
+63,11605,C. albicans,L1086,
+64,12834,C. albicans,L26,MTL a/a
+65,10264,C. albicans,MYA3404,this strain of C.tropicalis was sequenced at the Broad Institute
+66,12843,C. albicans,P34048,MTL alpha/alpha
+67,12837,C. albicans,P37005,MTL a/a
+68,12844,C. albicans,P37037,MTL  a/alpha
+69,12845,C. albicans,P37039,MTL a/alpha
+70,12848,C. albicans,P57055,MTL a/alpha
+71,12842,C. albicans,P57072,MTL alpha/alpha
+72,12838,C. albicans,P60002,MTL a/a
+73,12846,C. albicans,P75010,MTL a/alpha
+74,12847,C. albicans,P75016,MTL a/alpha
+75,12849,C. albicans,P75063,MTL a/alpha
+76,12850,C. albicans,P76055,MTL a/alpha
+77,12851,C. albicans,P76067,MTL a/alpha
+78,12852,C. albicans,P78042,MTL a/alpha
+79,12841,C. albicans,P78048,MTL alpha/alpha
+80,12836,C. albicans,P87,MTL a/a
+81,12835,C. albicans,P94015,MTL a/a
+82,12497,C. albicans,PT14 TC2440,
+83,12498,C. albicans,PT14 TC2501,
+84,12496,C. albicans,PT14 TC580,
+85,12500,C. albicans,PT15 TC1619,
+86,12499,C. albicans,PT15 TC945,
+87,12501,C. albicans,PT16 TC3107,
+88,12502,C. albicans,PT16 TC3119,
+89,12503,C. albicans,PT16 TC3120,
+90,12504,C. albicans,PT30 TC5106,
+91,12505,C. albicans,PT30 TC5108,
+92,12506,C. albicans,PT43 TC1649,
+93,12507,C. albicans,PT43 TC3034,
+94,12508,C. albicans,PT59 TC3917,
+95,12509,C. albicans,PT59 TC4617,
+96,12510,C. albicans,PT59 TC4639,
+97,12493,C. albicans,PT7 TC2307,
+98,12492,C. albicans,PT7 TC412,
+99,12494,C. albicans,PT9 TC2001,
+100,12495,C. albicans,PT9 TC3795,
+101,10191,C. albicans,RBY18,tetraploid mating product from strains RBY16 (9441) and CHY477 (9442)
+102,11580,C. albicans,RIHO9,
+103,11584,C. albicans,RV4688,
+104,11594,C. albicans,s20122.073,
+105,11596,C. albicans,s20152.013,
+106,11585,C. albicans,s20152.082,
+107,11617,C. albicans,s20175.016,
+108,11601,C. albicans,s20176.079,
+109,11608,C. albicans,T101,
+110,9613,C. albicans,T118," Jim Anderson T118-1 
+."
+111,8643,C. albicans,TW007228,"#1: 2-76
+Susceptible parent
+drug susceptible
+"
+112,8636,C. albicans,TW05404,"4-FHC5
+overexpression of CDR
+drug resistant
+"
+113,8637,C. albicans,TW05405,"5-FHC1
+Susceptible parent
+drug susceptible"
+114,8638,C. albicans,TW06010  FH1,"FH1
+parent
+drug susceptible"
+115,8639,C. albicans,TW06014  FH5,"FH5
+overexpression of CDR
+drug resistant
+"
+116,8640,C. albicans,TW06017 FH8,"FH8
+overexpression of CDR
+drug resistant
+"
+117,8641,C. albicans,TW06019,"FHB1/
+parent
+drug susceptible"
+118,8642,C. albicans,TW06021,"FHB3/
+overexpression of CDR
+drug resistant
+"
+119,9020,C. albicans,TW07229,"
+"
+120,9021,C. albicans,TW07230,
+121,8644,C. albicans,TW07231,"#4: 2-81
+overexpression of MDR1
+drug resistant"
+122,8645,C. albicans,TW07239,"#13: 8-44
+overexpression of MDR1/ERG11
+drug resistant
+"
+123,9022,C. albicans,TW07241,
+124,8646,C. albicans,TW07243,"#17: 12-99
+overexpression of MDR1/ERG11/CDR
+drug resistant
+"
+125,12475,C. albicans,TWTC1,
+126,12485,C. albicans,TWTC11,
+127,12486,C. albicans,TWTC12,
+128,12487,C. albicans,TWTC13,
+129,12488,C. albicans,TWTC14,
+130,12489,C. albicans,TWTC15,
+131,12490,C. albicans,TWTC16,
+132,12491,C. albicans,TWTC17,
+133,12476,C. albicans,TWTC2,
+134,12477,C. albicans,TWTC3,
+135,12478,C. albicans,TWTC4,
+136,12479,C. albicans,TWTC5,
+137,12480,C. albicans,TWTC6,
+138,12481,C. albicans,TWTC7,
+139,12482,C. albicans,TWTC8,
+140,10263,C. albicans,WO-1,this strain of WO-1 was sequenced at the Broad Institute
+141,11897,C. albicans,Wu284,
+142,11595,C. albicans,YsU751,
+143,10262,C. albicans,,this is the strain that was sequences at the Broad Institute
+144,4174,C. glabrata, BG14,ura3
+145,12082,C. glabrata,ATCC 66032,
+146,4173,C. glabrata,BG2,"WT
+C. glabrata"
+147,12778,C. guilliermondii,,haploid
+148,4172,C. krusei,653,"WT
+C. krusei"
+149,4179,C. parapsilosis,4961,WT
+150,4175,C. parapsilosis,A010 ,WT
+151,4178,C. parapsilosis,A041 ,WT
+152,4176,C. parapsilosis,A044 ,WT
+153,12108,C. parapsilosis,ATCC 22109,WT
+154,4177,C. parapsilosis,YA053,WT
+155,4171,C. pseudotropicalis,669,"WT
+Candida pseudotopicalis"
+156,3769,C. pseudotropicalis,B-4296,WT
+157,4170,C. tropicalis,660,"WT
+C. tropicalis"
+158,12584,C. tropicalis,Magee M973,
+159,12585,C. tropicalis,Magee M974,
+160,1,S. cerevisiae,S288C,MAT alpha mal gal2
+161,7185,S. cerevisiae,BY4741,"MATa his3∆1 leu2∆0 met15∆0 ura3∆0
+"
+162,7186,S. cerevisiae,BY4742,"MATalpha his3∆1 leu2∆0 lys2∆0 ura3∆0
+"
+163,3174,S. cerevisiae, ,"MATa ade2-1 can1-100 his3-11,-15 leu2-3,-112 trp1-1, ura3-1, orc5-1"
+164,247,S. cerevisiae,AMR1,"MATa  ade2-1 ura3-1 his3-11 trp1-1 leu2-3,112  can1-100  nat1-5::LEU2
+"
+165,31,S. cerevisiae,CG1 = K65-3D,MAT a/alpha Ho (ade 2 leu1-12 met13-d trp5-d lys2-1 ade5 his7-2 tyr1-1 ura3-13 can1-r)
+166,5364,S. cerevisiae,DHY56-1A,"MATa    ade2-loc   ADE3   can1-100   his3-11,15   leu2-3,112   trp1-1  ura3-1   NIC96-YFP (HIS)"
+167,5365,S. cerevisiae,DHY56-2B,"MATa ade2-loc   ADE3   can1-100   his3-11,15   leu2-3,112   trp1-1  ura3-1   NIC96-YFP (HIS)"
+168,5366,S. cerevisiae,DHY61-2C,"MAT alpha  ade2-loc   ade3Δ100   can1-100   his3-11,15   leu2-3,112   TRP  ura3-1   NIC96-CFP (KAN)"
+169,5367,S. cerevisiae,DHY61-2D,"MATa    ade2-loc   ade3Δ100   can1-100   his3-11,15   leu2-3,112   TRP  ura3-1   NIC96-CFP (KAN)"
+170,270,S. cerevisiae,JRY527,"MATa ade2-101 his3 ∆200 lys2 801 met2 ura3-52 cir + 
+"
+171,269,S. cerevisiae,JRY528,"MAT alpha ade2-101 his3∆200 lys2-801 tyr1 ura3-52 cir+ 
+"
+172,12575,S. cerevisiae,PMY070,
+173,12576,S. cerevisiae,PMY093,
+174,12577,S. cerevisiae,PMY110,
+175,12578,S. cerevisiae,PMY112,
+176,12579,S. cerevisiae,PMY127,
+177,12580,S. cerevisiae,PMY132,
+178,12581,S. cerevisiae,PMY141,
+179,12582,S. cerevisiae,PMY142,
+180,12583,S. cerevisiae,PMY144,
+181,3902,S. cerevisiae,PSY580  alias FY23   ,MATa ura3-52 trp1∆G3 leu2∆1 GAL+
+182,197,S. cerevisiae,RE1298,"MAT alpha ade2, his3 ∆200, leu2, lys2, met13d, trp1-1, ura3, spo13-1"
+183,196,S. cerevisiae,RE790 = YNN217,"MATa ade2-101, his3 ∆200, lys2-801, ura3-52"
+184,249,S. cerevisiae,W303 alpha cyh2,"MAT alpha ade2-1 can1-100 his3-11,-15 leu2-3,-112 trp1-1, ura3-1, cyh2 
+"
+185,2400,S. cerevisiae,Y1885,"MAT a/alpha SIGMA ura3/ura3 leu2/leu2
+"
+186,2398,S. cerevisiae,Y1892,"MAT alpha SIGMA ura3 leu2
+"
+187,2399,S. cerevisiae,Y1893,"MATa SIGMA ura3 leu2
+"
+188,2397,S. cerevisiae,Y2350,"MAT alpha SIGMA swe1::URA3 ura3 leu2
+"
